@@ -5,6 +5,6 @@ Trabalho UFS
 
 Andre Lucas Avila Lima 
 
-#Samuel Augusto Souza Alves Santanta 
+Samuel Augusto Souza Alves Santanta 
 
 Tales Silva Leopoldino
