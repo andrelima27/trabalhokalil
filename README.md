@@ -3,6 +3,6 @@ Trabalho UFS
 
 # Alunos:
 
-Andre Lucas Avila Lima
-Samuel Augusto Souza Alves Santanta
+Andre Lucas Avila Lima \n
+Samuel Augusto Souza Alves Santanta \n
 Tales Silva Leopoldino
